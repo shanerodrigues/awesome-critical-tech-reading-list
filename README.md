@@ -25,6 +25,8 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [The ethics of algorithms: Mapping the debate](https://journals.sagepub.com/doi/pdf/10.1177/2053951716679679) [2016]
 * [The Mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf) [2017]
 * [Counting the countless](https://reallifemag.com/counting-the-countless/)[2019] A short article illustrating the fundamental incompatibility between data science and Queerness
+* [Algorithmic Realism](https://dl.acm.org/doi/abs/10.1145/3351095.3372840)[2020] This paper's thesis is that the gap between intents of algorithimic solutions for social goods and its impacts is due to a fundamental methodological limitation. The paper proposes a path forward to be able to better adapt algorithms to the complex reality they act upon.
+
 #### AI and Politics
 * [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224) [2017]: great analysis of the existing narrative about the "AI Revolution", how it came to be, who profits from it and what's hidden underneath
 * [Why AI is still waiting for its ethics transplant](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/) [2017]
@@ -32,13 +34,13 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 ## Labor
 
 * [Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex) [2016]: why the "coding is fun" narrative is dangerous and insulting to students and engineers.
-* [The Agile Labor Union](http://www.metareader.org/post/agile-labor-union.html) [2014]: how Agile development methodology empowered IT workers and protected them over the years and how alternatives are threatening workers' autonomy.
+* [The Agile Labor Union](http://www.metareader.org/post/agile-labor-union.html) [2014]: The Agile movement had ambitions to protect the interests of software engineers at work similiar to a craft union, however its fatal flaw was framing the purpose of the movement as wholly in service of business goals, which left it open to internal takeover by Lean methodologies, and to external challenges from specialized User-Centered Design that better understood software design as a socio-technical process (while also undermining user autonomy).
 * [Freedom isn't free](https://logicmag.io/05-freedom-isnt-free/): why the open source movement should be considered a failure and how to turn it in a bolder plan to rethink how we produce information
 * [Understanding Fair Labor Practices in a Networked Age](https://datasociety.net/pubs/fow/FairLabor.pdf) [2014]
 * [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)[2015]: this article explores the reasons why Programmers are rarely engineers and why they should be
 * [Why Are Young People Pretending to Love Work?](https://www.nytimes.com/2019/01/26/business/against-hustle-culture-rise-and-grind-tgim.html)[2019]: short article describing the rise of the hustle culture and how it's spearheaded by the IT industry, summarizing and pointing to other material about resistance to toxic working culture.
 * [Loomio Cooperative Handbook](https://loomio.coop/): extensive guide on how to create your democratic worker-owned cooperative to develop a software product
-
+* [Agile Methods: Collaborative work culture or digital Taylorism?](https://techworkersberlin.com/news/2020-04-01-timo_daum-agile_methods_english/): Timo Daum summarizes the history of Agile and the role it played in the IT sector, tracing also its expansion to other industries, asking questions about the power structures it created.
 
 ## Meta
 * [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction) [2017]: using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
@@ -47,6 +49,12 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 ## Privacy
 
 * [Psychometric Profiling: Persuasion by Personality in Elections](https://ourdataourselves.tacticaltech.org/posts/psychometric-profiling/): this article presents the current methodologies used to extract psychological information about citizens and how they are used for political campaigns.
+
+## Software Licensing
+
+* [The original sin of Free Software](https://lipu.dgold.eu/original-sin.html)[2019]: highlights the issues with the original conceptualization of Free Software and how they relate to the current issues related to software ownership, to the colonization of Open Source by corporations and in general to the liberation of Software.
+
+* [CoopyLeft](https://wiki.coopcycle.org/en:license)[2020]: A license that reservers commercial usage only to cooperatives.
 
 ## Other
 [Unplanned Obsolescence: Hardware and Software After Collapse ](https://kurti.sh/pubs/unplanned_limits17.pdf)[2017]: an analysis of the problems computing will face once the internet and the hardware supply chain will collapse.
@@ -58,6 +66,9 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Inventing the Future: Postcapitalism and a world without work](https://en.wikipedia.org/wiki/Inventing_the_Future:_Postcapitalism_and_a_World_Without_Work) [2015]: this book outlines a practical strategy to act upon the current problems of our society and places engineers and makers in a pivotal position to shape a better idea of future. The book explains how tech people are greatly empowered by the new economic and political conjunction to shape the future.
 
 * [Notes from Below: Technology and the Worker](https://notesfrombelow.org/article/technology-and-the-worker) [2018]: this journal details different aspects of being a worker in Tech nowadays, reporting real life examples on what is going on politically and socially in American big tech companies, and how Tech workers are beginning to organize themselves. 
+
+* [On Design Thinking](https://nplusonemag.com/issue-35/reviews/on-design-thinking/) [2019]: What happened when one of the poorest cities in Florida turned to IDEO to "Reinvent Itself With UX Design". Highlighting Horst Rittel's concept of "wicked problems", against rationalist design, outlined in [Dilemmas in a General Theory of Planning](https://web.archive.org/web/20070930021510/http://www.uctc.net/mwebber/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf) [1973]. 
+
 
 ---
 
@@ -71,6 +82,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Logicmac](https://logicmag.io/): The Magazine about technological critique. Released in seasonal issues with a central topic and contributions from different authors and specialists.
 * [The Register](https://www.theregister.co.uk/): A news website reporting on tech news from a critical perspective. 
 * [The Syllabus / The Machinist](https://the-syllabus.com/goods/thematic/machinist/): A subsection of The Syllabus dedicated to technology: weekly curated digest of high quality contents.
+* [Skynet Today](https://www.skynettoday.com/): critical perspectives about "AI", in the form of news digests, editorials and theory
 
 ## Contributing
 
